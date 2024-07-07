@@ -66,7 +66,5 @@ This project is a fun and interactive game that uses computer vision to track ha
    - The ball bounces off the paddle and walls, and the game keeps track of the score and level.
    - The ball speed increases as the player progresses through levels.
 
-3. **Dashboard**:
-   - An interactive dashboard allows the player to adjust the ball speed before starting the game.
-   - The player can start the game by hovering their finger over the "Start" button.
+
 
